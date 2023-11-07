@@ -1,0 +1,64 @@
+How the web works
+The World Wide Web, often referred to as the web, is a system of interconnected documents and resources that are accessible over the internet.
+ It works through a combination of technologies and protocols that allow users to access and interact with web content.
+Client and Server: The web operates on a client-server model. Users (clients) access web content and services stored on remote computers (servers) via web browsers,
+ mobile apps, or other client software.
+URLs (Uniform Resource Locators): To access a specific web resource, you typically enter a URL in your web browser. A URL is a string that specifies the address and protocol to be used for retrieving the resource. 
+For example, "https://www.example.com" is a URL.
+HTTP and HTTPS: When you enter a URL, your browser uses either the HTTP (Hypertext Transfer Protocol) or the more secure HTTPS (HTTP Secure) to request the resource from the server. 
+HTTPS encrypts data transmission to protect your privacy.
+DNS (Domain Name System): To translate human-readable domain names (e.g., www.example.com) into IP addresses, your browser queries a DNS server. 
+This step is crucial because it helps your browser find the server hosting the requested web content.
+Request and Response: Once the browser knows the IP address of the server, it sends an HTTP request to that server for the desired resource.
+ The request typically includes details like the type of content required (e.g., HTML page, image, video) and other information.
+Server Processing: The server processes the request and retrieves the requested resource. 
+It might generate dynamic content or fetch data from a database, depending on the nature of the request.
+HTML, CSS, and JavaScript: Web content is often composed of HTML (Hypertext Markup Language) for structuring the page,
+ CSS (Cascading Style Sheets) for styling it, and JavaScript for adding interactivity. 
+These technologies work together to create the web page you see in your browser.
+what you need to be web developper 
+
+To become a web developer, you'll need a combination of education, skills, and practical experience.
+ Here are the key requirements and steps to become a web developer:
+Educational Background:
+
+While a formal degree is not always required, many web developers have a bachelor's degree in computer science, web development, 
+or a related field. However, it's possible to learn web development through self-study and online resources.
+Technical Skills:
+
+Proficiency in web development languages and technologies is essential. You should be comfortable with:
+HTML (Hypertext Markup Language): For creating the structure and content of web pages.
+CSS (Cascading Style Sheets): For styling and layout of web pages.
+JavaScript: For adding interactivity and functionality to websites.
+Understanding of web development frameworks and libraries such as React, Angular, or Vue.js.
+Familiarity with server-side languages like PHP, Python, Ruby, or Node.js, as well as databases like MySQL or MongoDB.
+Knowledge of version control systems like Git.
+Proficiency in using web development tools and editors (e.g., Visual Studio Code).
+Front-End Development:
+
+Front-end developers focus on the user interface and user experience. 
+You should be skilled in creating responsive, visually appealing, and accessible web pages.
+Back-End Development:
+
+Back-end developers work on the server-side of web applications. You should understand how to build and maintain server infrastructure,
+ handle databases, and develop server-side logic.
+Web Development Frameworks:
+
+Learn popular web development frameworks and libraries, such as React, Angular, or Node.js, depending on your chosen specialization.
+Databases:
+
+Understand how to work with databases to store and retrieve data. SQL and NoSQL databases are commonly used in web development.
+Web APIs:
+
+Learn how to work with web APIs to integrate third-party services or build your own.
+
+
+
+
+
+
+
+
+
+
+
